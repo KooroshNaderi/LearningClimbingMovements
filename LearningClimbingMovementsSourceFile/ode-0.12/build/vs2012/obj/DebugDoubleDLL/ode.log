@@ -1,0 +1,236 @@
+﻿  OPC_VolumeCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_TreeCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_TreeBuilders.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_SphereCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_RayCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_PlanesCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_Picking.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_OptimizedTree.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_OBBCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_Model.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_MeshInterface.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_LSSCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_HybridModel.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_Common.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_Collider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_BaseModel.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_AABBTree.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  OPC_AABBCollider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Opcode.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceUtils.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Generating Code...
+  Compiling...
+  IceTriangle.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceSegment.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceRevisitedRadix.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceRay.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceRandom.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IcePoint.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IcePlane.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceOBB.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceMatrix4x4.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceMatrix3x3.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceIndexedTriangle.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceHPoint.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceContainer.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  IceAABB.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\opcode\ice\icefpu.h(53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  util.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  timer.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  step.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  sphere.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  rotation.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  ray.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Generating Code...
+  Compiling...
+  quickstep.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  plane.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  odetls.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  odeou.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  odemath.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  odeinit.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  ode.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  obstack.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  misc.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  memory.cpp
+  matrix.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  mat.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  mass.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  lcp.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  heightfield.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  export-dif.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  error.cpp
+  cylinder.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  convex.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_util.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Generating Code...
+  Compiling...
+  collision_trimesh_trimesh_new.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_trimesh.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_sphere.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_ray.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_plane.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_opcode.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_gimpact.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_distance.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_disabled.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_ccylinder.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_trimesh_box.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_transform.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_space.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_sapspace.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_quadtreespace.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_kernel.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_cylinder_trimesh.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_cylinder_sphere.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_cylinder_plane.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  collision_cylinder_box.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Generating Code...
+  Compiling...
+  capsule.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  box.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  array.cpp
+  universal.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  slider.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  pu.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  pr.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  plane2d.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  piston.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  null.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  lmotor.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  joint.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  hinge2.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  hinge.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  fixed.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  contact.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  ball.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  amotor.cpp
+c:\kourosh\phdcourses\githubprojects\learningclimbingmovements\learningclimbingmovementssourcefile\ode-0.12\include\ode\common.h(109): fatal error C1189: #error:  You can only #define dSINGLE or dDOUBLE, not both.
+  Generating Code...

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Natvis Include="src\eigen.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\DynamicMinMax.cpp" />
+    <ClCompile Include="src\DynamicPdfSampler.cpp" />
+    <ClCompile Include="src\EigenMathUtils.cpp" />
+    <ClCompile Include="src\FileUtils.cpp" />
+    <ClCompile Include="src\RenderCommands.cpp" />
+    <ClCompile Include="src\RenderingClientDll_wrap.cpp" />
+    <ClCompile Include="src\Spline\Spline.cpp">
+      <Filter>Spline</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mUnityOde\UnityOde.cpp">
+      <Filter>UnityOde</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LearnerControl\ANN.cpp">
+      <Filter>LearnerControl</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CPBPLearning\ControlPBP.cpp">
+      <Filter>CPBP</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MiscUtils.cpp" />
+    <ClCompile Include="src\ClippedGaussianSampling.cpp" />
+    <ClCompile Include="src\DiagonalGMM.cpp" />
+    <ClCompile Include="src\OnlineForest.cpp" />
+    <ClCompile Include="src\OnlinePiecewiseLinearRegressionTree.cpp" />
+    <ClCompile Include="src\IndexRandomizer.cpp" />
+    <ClCompile Include="src\OnlinePiecewiseLinearRegression.cpp" />
+    <ClCompile Include="src\ProbUtils.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\DynamicMinMax.h" />
+    <ClInclude Include="src\DynamicPdfSampler.h" />
+    <ClInclude Include="src\EigenMathUtils.h" />
+    <ClInclude Include="src\FileUtils.h" />
+    <ClInclude Include="src\MathUtils.h" />
+    <ClInclude Include="src\RenderClient.h" />
+    <ClInclude Include="src\RenderCommands.h" />
+    <ClInclude Include="src\TrajectoryOptimization.h" />
+    <ClInclude Include="src\Spline\Spline.h">
+      <Filter>Spline</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mUnityOde\UnityOde.h">
+      <Filter>UnityOde</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mUnityOde\UnityOde_internal.h">
+      <Filter>UnityOde</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mUnityOde\error_internal.h">
+      <Filter>UnityOde</Filter>
+    </ClInclude>
+    <ClInclude Include="src\LearnerControl\ANN.h">
+      <Filter>LearnerControl</Filter>
+    </ClInclude>
+    <ClInclude Include="src\CPBPLearning\ControlPBP.h">
+      <Filter>CPBP</Filter>
+    </ClInclude>
+    <ClInclude Include="src\LearningClass.h" />
+    <ClInclude Include="src\MiscUtils.hpp" />
+    <ClInclude Include="src\mSimulationContext.h" />
+    <ClInclude Include="src\mTools.h" />
+    <ClInclude Include="src\ClippedGaussianSampling.h" />
+    <ClInclude Include="src\DiagonalGMM.h" />
+    <ClInclude Include="src\OnlineForest.h" />
+    <ClInclude Include="src\OnlinePiecewiseLinearRegressionTree.h" />
+    <ClInclude Include="src\IndexRandomizer.h" />
+    <ClInclude Include="src\GenericDensityForest.hpp" />
+    <ClInclude Include="src\MemoryStack.hpp" />
+    <ClInclude Include="src\RegressionUtils.hpp" />
+    <ClInclude Include="src\OnlinePiecewiseLinearRegression.h" />
+    <ClInclude Include="src\WorkerThreadManager.h" />
+    <ClInclude Include="src\ProbUtils.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Spline">
+      <UniqueIdentifier>{58595e24-f9c9-4035-8e43-f78ec5060c25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnityOde">
+      <UniqueIdentifier>{0a5609fa-7491-4baf-9e60-53c5edfd6275}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LearnerControl">
+      <UniqueIdentifier>{998fe785-ad85-4b38-a26e-893601fec4d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CPBP">
+      <UniqueIdentifier>{fefeb354-e3eb-4984-9f1b-d76206302d25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
